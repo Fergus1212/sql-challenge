@@ -1,3 +1,4 @@
+
 --Join employees with salaries
 SELECT employees.emp_no,
   employees.last_name,

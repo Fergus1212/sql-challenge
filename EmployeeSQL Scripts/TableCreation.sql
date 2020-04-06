@@ -1,3 +1,4 @@
+
 CREATE TABLE "departments" (
     "dept_no" varchar   NOT NULL,
     "dept_name" varchar   NOT NULL);
